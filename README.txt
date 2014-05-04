@@ -1,6 +1,6 @@
 Instructions:
 By Gabriel Staples
-README last updated: 5 May 2014
+README last updated: 4 May 2014
 
 1) Upload the Arduino code to your Arduino.  
 -open the "MATLAB_to_Arduino1_0.ino" code to do so

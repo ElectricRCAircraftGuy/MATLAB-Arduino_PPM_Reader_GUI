@@ -2,6 +2,8 @@ Instructions:
 By Gabriel Staples
 README last updated: 4 May 2014
 
+For a demo of this code live in action, go here: http://www.instructables.com/id/Arduino-to-MATLAB-GUI-Live-Data-Acquisition-Plotti/
+
 1) Upload the Arduino code to your Arduino.  
 -open the "MATLAB_to_Arduino1_0.ino" code to do so
 2) Connect your RC Tx's trainer port to your Arduino, as follows:

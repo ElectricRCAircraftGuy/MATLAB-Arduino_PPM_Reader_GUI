@@ -3,7 +3,7 @@ By Gabriel Staples
 Written: 4 May 2014  
 README last updated: 3 Aug. 2015  
 
-**README Update History (newest on top):**  
+README Update History (newest on top):  
 -updated formatting - 3 Aug. 2015  
 
 ###For a demo of this code live in action, go here:  

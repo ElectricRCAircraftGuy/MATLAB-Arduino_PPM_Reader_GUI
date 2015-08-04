@@ -8,7 +8,7 @@ Visit my blog at http://electricrcaircraftguy.blogspot.com/
 My original post containing this code can be found here: http://electricrcaircraftguy.blogspot.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html
 Written: 7 Dec. 2013
 Last Updated: 11 Dec. 2013
-*/
+*/ 
 
 /*
 ===================================================================================================

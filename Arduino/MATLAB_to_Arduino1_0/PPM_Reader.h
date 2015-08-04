@@ -2,6 +2,30 @@
 //21 Feb. 2014
 //PPM_Reader.h
 
+/*
+===================================================================================================
+  LICENSE & DISCLAIMER
+  Copyright (C) 2014 Gabriel Staples.  All right reserved.
+  
+  ------------------------------------------------------------------------------------------------
+  License: GNU General Public License Version 3 (GPLv3) - http://www.gnu.org/licenses/gpl.html
+  ------------------------------------------------------------------------------------------------
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see http://www.gnu.org/licenses/
+===================================================================================================
+*/
+
 #include <Arduino.h> //This is mandatory to put here, as this command allows you to use the standard Arduino functions and core library.
                      //Though this include statement is not explicitly required in .ino files (since it is automatically included in those), it IS
                      //explicitly required in .h header files, such as this.  

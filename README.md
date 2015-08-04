@@ -13,7 +13,7 @@ http://www.instructables.com/id/Arduino-to-MATLAB-GUI-Live-Data-Acquisition-Plot
 -open the "MATLAB_to_Arduino1_0.ino" code to do so  
 2. Connect your RC Tx's trainer port to your Arduino, as follows:  
   1. Connect trainer ground to Arduino GND.  Refer to this list for pinout help: http://www.mftech.de/buchsen_en.htm  
-  2. Connect the trainer PPM out to the Arduino D2 pin, with a 1KOhm resistor in series, for protection in case you make a mistake while probing stuff.  
+  2. Connect the trainer PPM out to the Arduino D2 pin, with a 1K or 10k resistor in series, for protection in case you make a mistake while probing stuff.  
 3. Run the MATLAB code, by running the file called "MATLAB_to_Arduino_GUI_driver.m".  
 -Note: to edit the GUI, use MATLAB's GUI editor called "guide."  Open guide by typing "guide" in the MATLAB workspace, then open the "MATLAB_to_Arduino_GUI_driver.fig" file via guide.  
   1. Once you have run "MATLAB_to_Arduino_GUI_driver.m," the GUI will pop up.  Type in the appropriate COM port address to your Arduino, and press the "Start" button.  

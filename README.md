@@ -1,3 +1,6 @@
+<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/vUCuP">Buy my product</a>
+
 By Gabriel Staples  
 Written: 4 May 2014  
 README last updated: 3 Aug. 2015  

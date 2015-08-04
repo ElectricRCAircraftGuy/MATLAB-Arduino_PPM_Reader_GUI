@@ -20,5 +20,5 @@ http://www.instructables.com/id/Arduino-to-MATLAB-GUI-Live-Data-Acquisition-Plot
   2. Data will automatically begin to show up, so long as your Tx is on.  Move the sticks to see the output.  To look at your logged data file, go to the "MATLAB GUI PPM Reader 1.0\data" folder.  The data file names will look something like this: "data_20140504_0003_05".  The numbers are the time stamp of when the file was made, in order of [year, month, day]_[hour, minute]_second.csv.  
   3. The data file (ending in .csv) is a comma-delimited standard ASCII text file.  Since it ends in the .csv file extension, if you simply double click it, it will automatically open up in Microsoft Excel, where you can easily plot and manipulate the data.  
 
-##License (for ALL code herein, including Arduino AND MATLAB code):  
+##License (for ALL code herein, including the Arduino AND MATLAB code):  
 GPL V3 or later

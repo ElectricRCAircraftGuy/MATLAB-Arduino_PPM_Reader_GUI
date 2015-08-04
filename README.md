@@ -5,7 +5,7 @@ README last updated: 3 Aug. 2015
 README Update History (newest on top):  
 -updated formatting - 3 Aug. 2015  
 
-#[Donate & Download](https://gumroad.com/l/MATLAB_GUI_Tx_PPM_signal_read_by_Arduino)
+##[Click Here to Donate & Download](https://gumroad.com/l/MATLAB_GUI_Tx_PPM_signal_read_by_Arduino)
 
 ##For a demo of this code live in action, go here:  
 http://www.instructables.com/id/Arduino-to-MATLAB-GUI-Live-Data-Acquisition-Plotti/  

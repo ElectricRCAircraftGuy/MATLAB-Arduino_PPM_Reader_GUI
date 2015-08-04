@@ -1,14 +1,3 @@
-<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/Ihzen">Buy my product</a>
-
-payment form
-<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/Ihzen?wanted=true">Buy my product</a>
-
-gift form
-<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/Ihzen?gift=true">Buy my product</a>
-
 By Gabriel Staples  
 Written: 4 May 2014  
 README last updated: 3 Aug. 2015  
@@ -16,7 +5,10 @@ README last updated: 3 Aug. 2015
 README Update History (newest on top):  
 -updated formatting - 3 Aug. 2015  
 
-###For a demo of this code live in action, go here:  
+##<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/Ihzen">Donate & Download</a>
+
+##For a demo of this code live in action, go here:  
 http://www.instructables.com/id/Arduino-to-MATLAB-GUI-Live-Data-Acquisition-Plotti/  
 
 ##Instructions:  

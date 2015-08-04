@@ -1,5 +1,13 @@
 <script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/vUCuP">Buy my product</a>
+<a class="gumroad-button" href="https://gumroad.com/l/Ihzen">Buy my product</a>
+
+payment form
+<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/Ihzen?wanted=true">Buy my product</a>
+
+gift form
+<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/Ihzen?gift=true">Buy my product</a>
 
 By Gabriel Staples  
 Written: 4 May 2014  
